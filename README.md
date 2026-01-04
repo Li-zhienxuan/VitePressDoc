@@ -1,6 +1,20 @@
 # Hajimi's Docs
 
-基于 VitePress 构建的个人技术文档站点，托管于 Cloudflare Pages。
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![VitePress](https://img.shields.io/badge/VitePress-1.6.4-blue.svg)](https://vitepress.dev/)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-orange.svg)](https://pages.cloudflare.com/)
+
+> 基于 VitePress 构建的个人技术文档站点，托管于 Cloudflare Pages。欢迎交流和分享！✨
+
+## 💬 关于开源精神
+
+这个网站的初衷就是为了**交流分享**。我坚信：
+
+> 如果不分享，就等于闭门造车。拥抱开源精神，让知识流动起来！🚀
+
+- ✅ **开源分享** - 所有文档内容开源，供大家学习和参考
+- ✅ **共同进步** - 欢迎提出建议和改进，一起完善文档
+- ✅ **知识传播** - 帮助遇到类似问题的开发者少走弯路
 
 ## 📚 文档内容
 
